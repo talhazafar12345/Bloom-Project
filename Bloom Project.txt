@@ -447,3 +447,160 @@ style.CSS
       
   
   }  
+@media only screen and (max-width: 800px) {
+    .bloomcontent {
+        display: none;
+    }
+    .bloomham {
+        display: inline;
+        color: white;
+    }
+    .p0 {
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+    }
+    .image img {
+        width: 330px;
+        display: flex;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .j1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+    .c2 {
+        margin-top: 250px;
+        width: 290px;
+    }
+    .c1 {
+        margin-top: 20px;
+        width: 290px;
+    }
+    .c3 {
+        margin-top: 10px;
+        width: 290px;
+    }
+    .bata {
+        flex-direction: column;
+        height: 660px;
+    }
+    .local {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .shokal {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .shata {
+        font-size: 13px;
+    }
+    .lp {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .hp {
+        font-size: 12px;
+    }
+    .shata1 p {
+        position: relative;
+        bottom: 25px;
+    }
+    .shata1 h3 {
+        position: relative;
+        bottom: 14px;
+    }
+    .act {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 915px) {
+    .bloomcontent {
+        display: none;
+    }
+    .bloomham {
+        display: inline;
+        color: white;
+    }
+    .p0 {
+        flex-direction: column;
+        align-items: center;
+        height: 450px;
+    }
+    .image img {
+        width: 330px;
+        display: flex;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .j1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+    .c2 {
+        margin-top: 250px;
+        width: 290px;
+    }
+    .c1 {
+        margin-top: 20px;
+        width: 290px;
+    }
+    .c3 {
+        margin-top: 10px;
+        width: 290px;
+    }
+    .bata {
+        flex-direction: column;
+        height: 660px;
+    }
+    .local {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .shokal {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .shata {
+        font-size: 13px;
+    }
+    .lp {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .hp {
+        font-size: 12px;
+    }
+    .shata1 p {
+        position: relative;
+        bottom: 25px;
+    }
+    .shata1 h3 {
+        position: relative;
+        bottom: 14px;
+    }
+    .act {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+}
+
+
+
+
+
